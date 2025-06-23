@@ -42,3 +42,9 @@ jamfstatus/
 │   └── user_comms.go             # User communication example
 ├── go.mod
 └── README.md
+
+Alert Integration: Send alerts to Slack, Teams, or email when outages are detected
+Monitoring System Integration: Report status to systems like Prometheus, Nagios, or Datadog
+CI/CD Pipeline Integration: As you mentioned, check status before deployments to prevent deploying during outages
+User Communication: Generate user communication templates based on incident details
+Health Checks: Combine external status data with internal health checks for a complete view
